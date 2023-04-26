@@ -1,21 +1,26 @@
 # Heart Failure Prediction
 
-Este notebook é uma demonstração de como prever a mortalidade por insuficiência cardíaca com base em um conjunto de variáveis usando o conjunto de dados do Kaggle, o Heart Failure Prediction Dataset. O conjunto de dados específico usado neste projeto pode ser encontrado em https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction.
-A insuficiência cardíaca é uma condição médica grave que afeta milhões de pessoas em todo o mundo. É importante prever a mortalidade por insuficiência cardíaca para ajudar a melhorar os cuidados de saúde e salvar vidas.
+This notebook is a demonstration of how to predict heart failure mortality based on a set of variables using Kaggle's Heart Failure Prediction Dataset. The specific dataset used in this project can be found at https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction.
+Heart failure is a serious medical condition that affects millions of people around the world. Predicting heart failure mortality is important to help improve health care and save lives.
 
-## Objetivo
-O objetivo deste notebook é criar um modelo de aprendizado de máquina capaz de prever a mortalidade por insuficiência cardíaca com base nas variáveis fornecidas.
+## Goal
+The purpose of this notebook is to create a machine learning model capable of predicting heart failure mortality based on the given variables.
 
 
-## Pré-requisitos
+## Prerequisites
 
-Para executar este notebook, você precisará de:
+To run this notebook you will need:
 
 - Python 3.x
-- Pacotes Python: pandas, numpy, matplotlib, seaborn, sklearn e imblearn
+- Python packages: pandas, numpy, matplotlib, seaborn, sklearn and imblearn
 
-## Como usar
+## How to use
 
-1. Clone este repositório em seu computador.
-2. Abra o notebook `Heart Failure.ipynb` em um ambiente de desenvolvimento Python, como Jupyter Notebook ou Google Collaboratory.
-3. Execute as células do notebook na ordem, seguindo a análise e os gráficos gerados.
+1. Clone this repository on your computer.
+2. Open the `Heart Failure.ipynb` notebook in a Python development environment such as Jupyter Notebook or Google Collaboratory.
+3. Run the notebook cells in order, following the analysis and generated graphs.
+
+## Contribution
+
+Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
+a pull request.
