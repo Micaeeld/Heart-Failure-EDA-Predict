@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Heart Failure Prediction
 
 This notebook is a demonstration of how to predict heart failure mortality based on a set of variables using Kaggle's Heart Failure Prediction Dataset. The specific dataset used in this project can be found at https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction.
